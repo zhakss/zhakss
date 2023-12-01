@@ -18,8 +18,12 @@ let zhakss = [
       'Bootstrap',
       'Tailwind',
       'React JS',
-      'Vue Js',
-      'Node JS'
+      'Vue JS',
+      'Next JS',
+      'Nuxt JS',
+      'JSON',
+      'Node JS',
+      'MySql'
     ],
     'socialMedia': {
       'Instagram': '@zakiiard',
