@@ -20,7 +20,6 @@ let zhakss = [
       'React JS',
       'Vue JS',
       'Next JS',
-      'Nuxt JS',
       'JSON',
       'Node JS',
       'MySql'
